@@ -18,7 +18,7 @@ Google Cloud Platform
 
 Modern Data Pipeine Tool - https://www.mage.ai/
 
-Contibute to this open source project - https://github.com/mage-ai/
+Contibute to this open source project - 
 
 
 ## Dataset Used
