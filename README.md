@@ -17,8 +17,6 @@ Google Cloud Platform
 4. Looker Studio
 
 
-Contibute to 
-
 
 ## Dataset Used
 TLC Trip Record Data
