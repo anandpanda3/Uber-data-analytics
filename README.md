@@ -17,7 +17,7 @@ Google Cloud Platform
 4. Looker Studio
 
 
-Contibute to this open source project - 
+Contibute to 
 
 
 ## Dataset Used
