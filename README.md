@@ -26,7 +26,7 @@ Here is the dataset used in the video
 
 More info about dataset can be found here:
 1. Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-2. Data Dictionary - https://www.nyc.gov/assets/tlc/
+2. Data Dictionary - https://www.nyc.gov/
 
 ## Data Model
 <img src="data_model.jpeg">
