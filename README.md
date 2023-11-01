@@ -25,7 +25,7 @@ Yellow and green taxi trip records include fields capturing pick-up and drop-off
 Here is the dataset used in the video 
 
 More info about dataset can be found here:
-1. Website - https://www.nyc.gov/site/tlc/about/
+1. Website - https://www.nyc.gov/site/tlc/
 
 ## Data Model
 <img src="data_model.jpeg">
