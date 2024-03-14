@@ -10,7 +10,7 @@ The goal of this project is to perform data analytics on Uber data using various
 ## Technology Used
 - Programming Language - Python
 
-Google Cloud Platform
+Google Cloud Platform (GCP)
 1. Google Storage
 2. Compute Instance 
 3. BigQuery   
